@@ -81,7 +81,7 @@ External CSS Styling | Basic HTML Document Layout | Internal CSS Styling | Inlin
 
 ### Answers
 
-Example Answer: *Basic HTML Document Layout*
+Example Answer: *Basic HTML Document Layout* 
 
 1. Internal CSS Styling
 
