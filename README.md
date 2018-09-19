@@ -83,10 +83,10 @@ External CSS Styling | Basic HTML Document Layout | Internal CSS Styling | Inlin
 
 Example Answer: *Basic HTML Document Layout*
 
-1. 
+1. Internal CSS Styling
 
-2. 
+2. External CSS Styling
 
-3. 
+3. Inline CSS Styling
 
 **Copyright &copy; 2018 Riyaad Azad. Free to copy and distribute as per the [official license on GitHub](https://github.com/ra-coding-club/coding-club/blob/master/LICENSE). All other rights reserved.** 
